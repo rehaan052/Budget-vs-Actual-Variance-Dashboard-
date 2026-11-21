@@ -1,5 +1,4 @@
-# Portfolio Project: Financial Analysis-Variance Model- Simple (Budget vs Actuals)
-### SURAJ PTATAP
+# Portfolio Project: Financial Analysis-Variance Model- Simple (Budget vs Actual)
 ### Project Role: Financial Analyst – Retail – Pet Services Industry.
 
 ## Variance Financial Model:
@@ -71,20 +70,7 @@ I created a simple but dynamic/interactive variance model which helps small busi
 * Refer to screenshots below for reports on this solution.
 
 
-## Portfolio Project Documentation (Final Conclusion):
-### Documentation: 
-* ReadMe-Financial-Analysis-Variance Model- Simple (Budget vs Actuals)-Excel.docx
-### Output File:
-* Financial-Analysis-Variance Model- Simple (Budget vs Actuals).xlsx
 
-## Dynamic and Interactive Dashboard – Financial Variance Model (Budget vs Actuals):
-![image](https://github.com/user-attachments/assets/e4397dae-8734-4bdf-a594-75a486473d68)
-
-## Dataset: Budget.
-![image](https://github.com/user-attachments/assets/d8a86ee8-aba0-448e-9740-b77442c568ce)
-
-## Dataset: Actuals by category.
-![image](https://github.com/user-attachments/assets/be909b50-3bb1-4b11-a14f-88def392a7e8)
 
 
 
